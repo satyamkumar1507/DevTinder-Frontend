@@ -1,6 +1,6 @@
 # DevTinder
 
-- Create a Vite + React application
+- Create a Vite + React applications
 - Remove unecessary code and create a Hello World app
 - Install Tailwind CSS
 - Install Daisy UI
